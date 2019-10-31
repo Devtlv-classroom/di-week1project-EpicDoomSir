@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 
-html,h1,h2,h3,h4,h5,h6,a{
+html,h1,h2,h3,h4,h5,h6,a,p{
     font-family: 'Righteous', cursive;
 }
 
@@ -38,6 +38,7 @@ header {
     text-align: center;
     padding-top: 20%;
     font-size: 35px;
+    color: ivory;
 }
 
 .one, .two {
